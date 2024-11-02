@@ -1,7 +1,6 @@
 # Hey there👋 General Kenobi;)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
- 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=¡Hola!+Ulises+Escalante;Ingeniero+en+sistemas...;Entusiasta+del+Desarollo+web...;AWS+PHP+ASP...;) 
  <p>- <i>Ingeniero en sistemas por parte de Instituto Tecnologico de Tijuana (ITT). Interesado en explorar el potencial de la tecnologia en la nube, Desarrollo de escritorios y el aprendizaje  en el funcionamiento de linux y sus distribuciones</i></p>
 
 
@@ -20,17 +19,6 @@
 
 <hr>
 
-<!---
-
-kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
-
-
-</br>
-
-
 <table width="100%" >
 
  <tr>
@@ -43,8 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+
 
 
 #### Development
@@ -81,25 +68,8 @@ You can click the Preview link to take a look at your changes.
      
 </td>
 
-</br>
 
-
-
--->
-
-
-
-
-
-
-</br>
-</br>
-
- 
- </br>
-
-
-## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
+## &nbsp; &nbsp; 📬📥 &nbsp; Contactame 
 
 <br/>
 
